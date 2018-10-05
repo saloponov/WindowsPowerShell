@@ -1,0 +1,1 @@
+$env:path = $env:path + "C:\Program Files\CakeBuilder;"
